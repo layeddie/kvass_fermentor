@@ -1,0 +1,3 @@
+# devenv.nix
+
+devShells.default = { ... };
